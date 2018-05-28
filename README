@@ -1,0 +1,2 @@
+etc-firmware → /etc/firmware → Some firmware files are there
+firmware     → /firmware     → Most firmware files are here.
